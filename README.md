@@ -2,13 +2,14 @@
 
 ### 💻 Languages & Tools
 
-![Java](https://img.shields.io/badge/Java-F44336?style=for-the-badge&logo=openjdk&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FF4081?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFCA28?style=for-the-badge&logo=python&logoColor=306998)
-![VHDL](https://img.shields.io/badge/VHDL-9C27B0?style=for-the-badge&logo=amd&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2196F3?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SPICE](https://img.shields.io/badge/SPICE-00BCD4?style=for-the-badge&logo=atom&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-4CAF50?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E95420?style=for-the-badge&logo=openjdk&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2C2C54?style=for-the-badge&logo=intellij-idea&logoColor=FF69B4)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![VHDL](https://img.shields.io/badge/VHDL-673AB7?style=for-the-badge&logo=amd&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SPICE](https://img.shields.io/badge/SPICE-0097A7?style=for-the-badge&logo=atom&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 

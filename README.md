@@ -15,9 +15,7 @@
 ---
 ### 🚀 Currently Working On 
 #### Constantly learning and improving my *programming* skills
----
 
-![Kimia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exirhasti&show_icons=true&theme=radical)
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exirhasti&layout=compact&theme=radical)

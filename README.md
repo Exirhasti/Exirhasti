@@ -8,7 +8,7 @@
 ![VHDL](https://img.shields.io/badge/VHDL-9C27B0?style=for-the-badge&logo=amd&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-2196F3?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SPICE](https://img.shields.io/badge/SPICE-00BCD4?style=for-the-badge&logo=atom&logoColor=000000)
-![VSCode](https://img.shields.io/badge/VS%20Code-4CAF50?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-4CAF50?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
 
 
 

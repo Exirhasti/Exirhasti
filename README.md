@@ -1,6 +1,5 @@
 # Hi there, I'm Kimia
 
----
 
 ### 💻 Languages & Tools
 

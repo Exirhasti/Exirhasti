@@ -1,7 +1,6 @@
 # Hi there, I'm Kimia
----
 
-### Constantly learning and improving my **programming**
+#### Constantly learning and improving my **programming**
 ---
 
 ### 💻 Languages & Tools

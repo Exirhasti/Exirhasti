@@ -1,6 +1,8 @@
-### Hi there 👋 I'm Kimia
+# Hi there, I'm Kimia
+---
 
-#Constantly learning and improving my **programming**
+### Constantly learning and improving my **programming**
+---
 
 ### 💻 Languages & Tools
 
@@ -12,8 +14,11 @@
 ![SPICE](https://img.shields.io/badge/SPICE-00BCD4?style=for-the-badge&logo=atom&logoColor=000000)
 ![VSCode](https://img.shields.io/badge/VS%20Code-4CAF50?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
 
+---
 
 ![Kimia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exirhasti&show_icons=true&theme=radical)
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exirhasti&layout=compact&theme=radical)
 
 

@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kimia Sadeghati
+### Hi there 👋 I'm Kimia
 
 #Constantly learning and improving my **programming**
 

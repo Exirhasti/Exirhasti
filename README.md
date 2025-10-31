@@ -14,7 +14,7 @@
 
 ---
 ### 🚀 Currently Working On 
-#### - Constantly learning and improving my programming skills
+####    Constantly learning and improving my programming skills
 
 ---
 

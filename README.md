@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Kimia Sadeghati
 
+#Constantly learning and improving my **programming**
+
 ### 💻 Languages & Tools
 
 ![Java](https://img.shields.io/badge/Java-F44336?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -10,7 +12,7 @@
 ![SPICE](https://img.shields.io/badge/SPICE-00BCD4?style=for-the-badge&logo=atom&logoColor=000000)
 ![VSCode](https://img.shields.io/badge/VS%20Code-4CAF50?style=for-the-badge&logo=visual-studio-code&logoColor=000000)
 
-Constantly learning and improving my **programming**
+
 ![Kimia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exirhasti&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exirhasti&layout=compact&theme=radical)
 
